@@ -1,4 +1,4 @@
-(function($){
+$(function(){
 var card = $(".card");
 card.on('mousemove', function (e){
     var x = e.clientX - $(this).offset().left + $(window).scrollLeft();
