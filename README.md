@@ -1,7 +1,7 @@
 # creating-a-sense-of-3D
 First Tutorial Creating a Sense of 3D With the Perspective Property of CSS3
 
-![3D](https://github.com/pol-yana/creating-a-sense-of-3D/images/3D-sense.png)
+![3D](https://github.com/pol-yana/creating-a-sense-of-3D/blob/master/images/3D-sense.png)
 
 ## Installation
 
